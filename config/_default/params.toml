@@ -74,3 +74,8 @@ editPage = false
   highLight = true
   kaTex = false
   collapsibleSidebar = true
+  
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true
